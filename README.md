@@ -1,2 +1,2 @@
-# qgis-animals-silhouettes-lpo
+# qgis-animal-silhouettes-icons-lpo
 Animals Silhouettes Images
